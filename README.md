@@ -19,8 +19,11 @@ Our goal was to reduce food waste by being able to remind people when their food
 ### Collaborators:
 
 Christopher Sofian
+
 Eugene Jahn
+
 Kevin Yuan
+
 Valdi Widanta
 
 ### Getting Started
