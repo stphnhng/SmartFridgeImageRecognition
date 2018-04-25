@@ -22,7 +22,7 @@ Our goal was to reduce food waste by being able to remind people when their food
 
 Eugene Jahn
 
-Kevin Yuan
+[Kevin Yuan](https://github.com/DarkChocoBar)
 
 Valdi Widanta
 
