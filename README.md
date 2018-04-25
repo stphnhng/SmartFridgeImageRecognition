@@ -24,7 +24,7 @@ Eugene Jahn
 
 [Kevin Yuan](https://github.com/DarkChocoBar)
 
-Valdi Widanta
+[Valdi Widanta](https://github.com/viwod)
 
 ### Getting Started
 1. `conda env create -f environment.yml`
