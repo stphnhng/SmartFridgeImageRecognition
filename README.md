@@ -20,7 +20,7 @@ Our goal was to reduce food waste by being able to remind people when their food
 
 [Christopher Sofian](https://github.com/Csofian)
 
-Eugene Jahn
+[Eugene Jahn](https://github.com/eugenejahn)
 
 [Kevin Yuan](https://github.com/DarkChocoBar)
 
