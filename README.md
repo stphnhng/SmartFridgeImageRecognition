@@ -18,7 +18,7 @@ Our goal was to reduce food waste by being able to remind people when their food
 
 ### Collaborators:
 
-Christopher Sofian
+[Christopher Sofian](https://github.com/Csofian)
 
 Eugene Jahn
 
